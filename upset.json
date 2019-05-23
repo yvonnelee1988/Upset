@@ -2,7 +2,7 @@
 	"file": "https://raw.githubusercontent.com/yvonnelee1988/Upset/master/all_VIP_upset_metaLab2.txt",
 	"name": "Differential protein groups",
 	"header": 0,
-	"separator": "\t",
+	"separator": ";",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" }
